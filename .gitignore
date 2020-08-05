@@ -1,1 +1,4 @@
 de438.bsp
+*.png
+.ipynb_checkpoints
+*.swp
