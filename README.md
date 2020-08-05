@@ -7,5 +7,5 @@ You can download `de438.bsp` [here](https://naif.jpl.nasa.gov/pub/naif/generic_k
 # Example Outputs
 Relative position of the Solar System planets as of 08-04-20.
 
-![inner](/examples/inner_today.png)
-![outer](/examples/outer_today.png)
+![inner](/examples/inner_08_04_20.png)
+![outer](/examples/outer_08_04_20.png)
